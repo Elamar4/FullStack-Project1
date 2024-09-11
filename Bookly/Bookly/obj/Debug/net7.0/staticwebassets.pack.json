@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Bookly.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bookly.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\2f4e1d91-33c6-4c42-a702-656e5d0a8c6e.webp",
+      "PackagePath": "staticwebassets\\images\\product\\2f4e1d91-33c6-4c42-a702-656e5d0a8c6e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\4f84d8a3-1b35-4698-a7c1-042e5752eb67.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4f84d8a3-1b35-4698-a7c1-042e5752eb67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\5195784d-80d0-4d38-a22f-69165470bba2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5195784d-80d0-4d38-a22f-69165470bba2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\74f34740-f36a-4281-9fda-ebee85623b91.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\74f34740-f36a-4281-9fda-ebee85623b91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\7ef5241e-a1f0-46fe-be86-b4a2ef176b23.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7ef5241e-a1f0-46fe-be86-b4a2ef176b23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\829fef59-2e79-4744-9990-fbc570b115db.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\829fef59-2e79-4744-9990-fbc570b115db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\8e00e1d4-a71b-47de-acbb-75e8b9335aad.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\8e00e1d4-a71b-47de-acbb-75e8b9335aad.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\a0367648-2c1e-41bd-a0f1-10f21dc7a383.webp",
+      "PackagePath": "staticwebassets\\images\\product\\a0367648-2c1e-41bd-a0f1-10f21dc7a383.webp"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\b5bc5c6c-d9d9-4f19-9eb1-dd4f256e82af.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b5bc5c6c-d9d9-4f19-9eb1-dd4f256e82af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\b6c84a28-67bc-4b24-8ed5-435c8e4287bf.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\b6c84a28-67bc-4b24-8ed5-435c8e4287bf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\c2b9e1e6-307c-47ae-aa08-cee05fe27241.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c2b9e1e6-307c-47ae-aa08-cee05fe27241.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\c9b6e69f-680b-4c4b-9c62-75e479abeeb0.webp",
+      "PackagePath": "staticwebassets\\images\\product\\c9b6e69f-680b-4c4b-9c62-75e479abeeb0.webp"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\de88866f-c5b7-48ea-b466-12c0dd723974.webp",
+      "PackagePath": "staticwebassets\\images\\product\\de88866f-c5b7-48ea-b466-12c0dd723974.webp"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\images\\product\\ff463a69-3fb3-4441-ba90-c99eabed7bce.webp",
+      "PackagePath": "staticwebassets\\images\\product\\ff463a69-3fb3-4441-ba90-c99eabed7bce.webp"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elmar\\OneDrive\\İş masası\\New ASP.Net mvc\\Bookly\\Bookly\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Bookly.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Bookly.props",
+      "PackagePath": "build\\Bookly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Bookly.props",
+      "PackagePath": "buildMultiTargeting\\Bookly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Bookly.props",
+      "PackagePath": "buildTransitive\\Bookly.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

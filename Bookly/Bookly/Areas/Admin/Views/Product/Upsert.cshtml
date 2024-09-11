@@ -1,0 +1,102 @@
+﻿@model Bookly.Models.ViewModels.ProductVM
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Product.Id" hidden />
+    <input asp-for="Product.ImageURL" hidden />
+
+    <div class="row">
+        <div class="col-9">
+            <div class="border  p-3 mt-4">
+                <div class="row pb-2">
+                    <h1 class="text-dark"><strong> @(Model.Product.Id != 0 ? "Update" : "Create") Product </strong></h1>
+                </div>
+                <hr />
+            </div>
+            <div class="mb-3 row p-2">
+                <label asp-for="Product.Title" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.Title" class="form-control" />
+                <span asp-validation-for="Product.Title" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-2">
+                <label asp-for="Product.Description" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.Description" class="form-control" />
+                <span asp-validation-for="Product.Description" class="text-danger"></span>
+
+            </div>
+            <div class="mb-3 row p-2">
+                <label asp-for="Product.ISBN" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.ISBN" class="form-control" />
+                <span asp-validation-for="Product.ISBN" class="text-danger"></span>
+
+            </div><div class="mb-3 row p-2">
+                <label asp-for="Product.Author" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.Author" class="form-control" />
+                <span asp-validation-for="Product.Author" class="text-danger"></span>
+
+            </div><div class="mb-3 row p-2">
+                <label asp-for="Product.LastPrice" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.LastPrice" class="form-control" />
+                <span asp-validation-for="Product.LastPrice" class="text-danger"></span>
+
+            </div><div class="mb-3 row p-2">
+                <label asp-for="Product.Price" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.Price" class="form-control" />
+                <span asp-validation-for="Product.Price" class="text-danger"></span>
+
+            </div><div class="mb-3 row p-2">
+                <label asp-for="Product.Price50" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.Price50" class="form-control" />
+                <span asp-validation-for="Product.Price50" class="text-danger"></span>
+
+            </div>
+            <div class="mb-3 row p-2">
+                <label asp-for="Product.Price100" style="color:black"></label>
+                <hr />
+                <input asp-for="Product.Price100" class="form-control" />
+                <span asp-validation-for="Product.Price100" class="text-danger"></span>
+
+            </div>
+            <div class="mb-3 row p-2">
+                <label asp-for="Product.CategoryId" style="color:black"></label>
+                <hr />
+                <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                    <option disabled selected>---select item---</option>
+                </select>
+                <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+
+            </div>
+            <div class="mb-3 row p-2">
+                <label asp-for="Product.ImageURL" style="color:black"></label>
+                <hr />
+                <input type="file" name="file" class="form-control" />
+
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-3">
+                    <button type="submit" class="btn btn-outline-success form-control" style="color:black;"><b> @(Model.Product.Id != 0 ? "Update" : "Create")</b></button>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a asp-controller="Product" asp-action="index" class="btn btn-outline-dark form-control" style="color:white;"><b>Back to list</b></a>
+                </div>
+            </div>
+
+
+
+        </div>
+
+        <div class="col-3 mt-4">
+            <img src="@Model.Product.ImageURL" width="100%" style=" border-radius:10px;border:2px solid black"; />
+        </div>
+    </div>
+
+
+
+
+</form>

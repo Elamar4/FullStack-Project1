@@ -1,0 +1,65 @@
+﻿@model Product
+
+<form method="post">
+    <div class="border  p-3 mt-4">
+        <div class="row pb-2">
+            <h1 class="text-dark"><strong>Delete Product </strong></h1>
+        </div>
+        <hr />
+    </div>
+    <div class="mb-3 row p-2">
+        <label asp-for="Title" style="color:black"></label>
+        <hr />
+        <input asp-for="Title" disabled class="form-control" />
+    </div>
+    <div class="mb-3 row p-2">
+        <label asp-for="Description" style="color:black"></label>
+        <hr />
+        <textarea asp-for="Description" disabled class="form-control"></textarea>
+
+    </div>
+    <div class="mb-3 row p-2">
+        <label asp-for="ISBN" style="color:black"></label>
+        <hr />
+        <input asp-for="ISBN" disabled class="form-control" />
+
+    </div><div class="mb-3 row p-2">
+        <label asp-for="Author" style="color:black"></label>
+        <hr />
+        <input asp-for="Author" disabled class="form-control" />
+
+    </div><div class="mb-3 row p-2">
+        <label asp-for="LastPrice" style="color:black"></label>
+        <hr />
+        <input asp-for="LastPrice" disabled class="form-control" />
+
+    </div><div class="mb-3 row p-2">
+        <label asp-for="Price" style="color:black"></label>
+        <hr />
+        <input asp-for="Price" disabled class="form-control" />
+
+    </div><div class="mb-3 row p-2">
+        <label asp-for="Price50" style="color:black"></label>
+        <hr />
+        <input asp-for="Price50" disabled class="form-control" />
+
+    </div>
+    <div class="mb-3 row p-2">
+        <label asp-for="Price100" style="color:black"></label>
+        <hr />
+        <input asp-for="Price100" disabled class="form-control" />
+
+    </div>
+    <div class="row">
+        <div class="col-6 col-md-3">
+            <button type="submit" class="btn btn-outline-danger form-control" style="color:black;"><b>Delete</b></button>
+        </div>
+        <div class="col-6 col-md-3">
+            <a asp-controller="Product" asp-action="index" class="btn btn-outline-dark form-control" style="color:white;"><b>Back to list</b></a>
+        </div>
+    </div>
+
+
+
+
+</form>

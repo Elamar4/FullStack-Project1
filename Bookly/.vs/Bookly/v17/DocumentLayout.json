@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|solutionrelative:bookly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly\\areas\\costumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|solutionrelative:bookly\\areas\\costumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E08645-E930-424B-A973-7385DA6A9BD7}|Bookly.DataAccess\\Bookly.DataAccess.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E08645-E930-424B-A973-7385DA6A9BD7}|Bookly.DataAccess\\Bookly.DataAccess.csproj|solutionrelative:bookly.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D327CE-3E75-4EFA-9511-4629B5E2E6FA}|Bookly.Models\\Bookly.Models.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D327CE-3E75-4EFA-9511-4629B5E2E6FA}|Bookly.Models\\Bookly.Models.csproj|solutionrelative:bookly.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD7060-0FFE-4127-9A41-18D0ED7BEB5E}|Bookly.Utility\\Bookly.Utility.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CD7060-0FFE-4127-9A41-18D0ED7BEB5E}|Bookly.Utility\\Bookly.Utility.csproj|solutionrelative:bookly.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|solutionrelative:bookly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D327CE-3E75-4EFA-9511-4629B5E2E6FA}|Bookly.Models\\Bookly.Models.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D327CE-3E75-4EFA-9511-4629B5E2E6FA}|Bookly.Models\\Bookly.Models.csproj|solutionrelative:bookly.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E08645-E930-424B-A973-7385DA6A9BD7}|Bookly.DataAccess\\Bookly.DataAccess.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly.dataaccess\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E08645-E930-424B-A973-7385DA6A9BD7}|Bookly.DataAccess\\Bookly.DataAccess.csproj|solutionrelative:bookly.dataaccess\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E08645-E930-424B-A973-7385DA6A9BD7}|Bookly.DataAccess\\Bookly.DataAccess.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly.dataaccess\\migrations\\20230916083413_extendidentityusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E08645-E930-424B-A973-7385DA6A9BD7}|Bookly.DataAccess\\Bookly.DataAccess.csproj|solutionrelative:bookly.dataaccess\\migrations\\20230916083413_extendidentityusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|c:\\users\\elmar\\onedrive\\\u0130\u015F masas\u0131\\new asp.net mvc\\bookly\\bookly\\areas\\admin\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC59FBA0-F3DD-4DA5-88F9-D04D76022943}|Bookly\\Bookly.csproj|solutionrelative:bookly\\areas\\admin\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bookly\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bookly\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:36:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\appsettings.json",
+              "RelativeDocumentMoniker": "Bookly\\appsettings.json",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\appsettings.json",
+              "RelativeToolTip": "Bookly\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T10:53:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Bookly.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.Models\\Product.cs",
+              "RelativeToolTip": "Bookly.Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:50:34.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Bookly.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.Utility\\EmailSender.cs",
+              "RelativeToolTip": "Bookly.Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:50:10.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20230916083413_extendidentityusers.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.DataAccess\\Migrations\\20230916083413_extendidentityusers.cs",
+              "RelativeDocumentMoniker": "Bookly.DataAccess\\Migrations\\20230916083413_extendidentityusers.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.DataAccess\\Migrations\\20230916083413_extendidentityusers.cs",
+              "RelativeToolTip": "Bookly.DataAccess\\Migrations\\20230916083413_extendidentityusers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:20:13.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.Models\\Category.cs",
+              "RelativeDocumentMoniker": "Bookly.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.Models\\Category.cs",
+              "RelativeToolTip": "Bookly.Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:20:04.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bookly.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Bookly.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:19:59.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.DataAccess\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bookly.DataAccess\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly.DataAccess\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "Bookly.DataAccess\\Data\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:19:56.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController1.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "RelativeDocumentMoniker": "Bookly\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "RelativeToolTip": "Bookly\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:51:15.96Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ba4aeb9a-a4af-4c6e-a1fd-dc42a0d3f969",
+        "Display": 0,
+        "X": 681,
+        "Y": 65,
+        "Width": 1194,
+        "Height": 718,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\Areas\\Costumer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Bookly\\Areas\\Costumer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Elmar\\OneDrive\\\u0130\u015F masas\u0131\\New ASP.Net mvc\\Bookly\\Bookly\\Areas\\Costumer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Bookly\\Areas\\Costumer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:30:12.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
